@@ -67,12 +67,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwasif666&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </div>
 
-## 🌟 Recent Activity
-<!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR #15 in [repo-name]
-2. 🚀 Pushed 3 commits to [repo-name]
-3. 🐛 Fixed bug in [project-name]
-<!--RECENT_ACTIVITY:end-->
+## 🌟 Recent Activity  
+<!--START_SECTION:activity-->  
+<!--END_SECTION:activity-->  
 
 
 ## 🔥 Streak Stats
