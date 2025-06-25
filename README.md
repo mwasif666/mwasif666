@@ -44,8 +44,11 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mwasif666&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwasif666&layout=compact&theme=radical" />
+  <!-- Combined Stats with Streak -->
+  <img src="https://github-readme-stats-and-streak.vercel.app/api?username=mwasif666&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwasif666&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 🌟 My Activity
@@ -72,7 +75,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwasif666&" alt="mwasif666" /></p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mwasif666&theme=react-dark" alt="Activity Graph"/>
-</p>
+
