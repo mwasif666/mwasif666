@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <!-- Combined Stats with Streak -->
-  <img src="https://github-readme-stats-and-streak.vercel.app/api?username=mwasif666&show_icons=true&count_private=true&theme=radical&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwasif666&" alt="mwasif666" />
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwasif666&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
