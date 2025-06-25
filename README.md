@@ -4,11 +4,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Wasif</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mwasif666&label=Profile%20views&color=0e75b6&style=flat" alt="mwasif666" /> 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mwasif666.mwasif666" alt="visitors"/>
-</p>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mwasif666&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="mwasif666" />
 </div>
