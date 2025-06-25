@@ -46,7 +46,7 @@
 <div align="center">
   <!-- Combined Stats with Streak -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwasif666&" alt="mwasif666" />
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mwasif666&show_icons=true&locale=en" alt="mwasif666" />
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwasif666&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
@@ -71,8 +71,5 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwasif666&show_icons=true&locale=en" alt="mwasif666" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwasif666&" alt="mwasif666" /></p>
 
 
