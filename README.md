@@ -1,6 +1,6 @@
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mwasif666&show_icons=true&locale=en&layout=compact" alt="mwasif666" /></p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Wasif</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
