@@ -16,8 +16,8 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-<!-- GitHub Streak Stats with Full Dark Theme -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwasif666&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwasif666&theme=dark&background=0D1117&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🛠️ Tech Stack
