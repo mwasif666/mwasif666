@@ -14,8 +14,10 @@
 </div>
 
 ## 🔥 My Contributions
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwasif666&theme=dark&hide_border=true&background=0D1117" alt="mwasif666" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mwasif666&label=Profile%20views&color=0e75b6&style=flat" alt="mwasif666" /> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mwasif666.mwasif666" alt="visitors"/>
+</p>
 </p>
 
 ## 🛠️ My Skills
