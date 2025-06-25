@@ -1,0 +1,15 @@
+name: Update Recent Activity
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # Har 30 minutes mein auto-update hoga
+  workflow_dispatch:  # Manual run karne ke liye
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
