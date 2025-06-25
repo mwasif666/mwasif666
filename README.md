@@ -26,38 +26,28 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
-
-### 🎨 Design & CMS
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
-</p>
-
-### ⚙️ Tools & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-</p>
 </div>
 
 <!-- Stats Section -->
 ## 📊 GitHub Analytics
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mwasif666&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mwasif666&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+<!-- GitHub Streak Stats - Fixed URL -->
+<img src="https://streak-stats.demolab.com?user=mwasif666&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=mwasif666&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwasif666&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mwasif666&theme=github_dark" alt="Repos by Language"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwasif666&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <!-- Activity Graph -->
 ## 🌟 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mwasif666&theme=github-compact&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mwasif666&theme=github-compact&hide_border=true" alt="Activity Graph"/>
 </p>
 
 <!-- Contact Section -->
@@ -71,8 +61,5 @@
   </a>
   <a href="https://www.linkedin.com/in/muhammad-wasif-944741202">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/mwasif666">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
